@@ -9,16 +9,16 @@
 <code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/spidercod/spidercod/main/images/dart-logo-free-transparent-png.png"></code>
 <code><img height="20" alt="Flutter" src="https://raw.githubusercontent.com/spidercod/spidercod/main/images/flutter5786.jpg"></code>
 
-| <a href="https://github.com/spidercod/spidercod.git"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hossein's github stats" /></a> | <a href="https://github.com/spidercod/spidercod.git"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/spidercod/spidercod.git"><img align="center" src="https://github-spidercod.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hossein's github stats" /></a> | <a href="https://github.com/spidercod/spidercod.git"><img align="center" src="https://github-spidercod.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 #### Top Repositories
 
 <a href="https://github.com/spidercod/spidercod.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-spidercod.vercel.app/api/pin/?username=anuraghazra&repo=github-spidercod&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-spidercod.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
