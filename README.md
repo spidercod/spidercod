@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" alt="Hello, I'm Hossien Zaki. I do open source!" src="./images/90066.jpg" /></p>
+<p align="center"><img width="400" height="500" alt="Hello, I'm Hossien Zaki. I do open source!" src="./images/90066.jpg" /></p>
 
 <br />
 
