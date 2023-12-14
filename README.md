@@ -1,8 +1,6 @@
-<p align="center"><img width="1000" height="300" alt="Hello, I'm Hossien Zaki. I do open source!" src="./images/90066.jpg" /></p>
+<p align="center"><img width="1000" height="400" alt="Hello, I'm Hossien Zaki. I do open source!" src="./images/90066.jpg" /></p>
 
 <br />
-
-I'm a self-taught passionate Flutter developer from IRAN 🇮🇳
 
 **About me**
 
