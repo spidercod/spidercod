@@ -4,14 +4,8 @@
 
 **About me**
 
-- 💼 Flutter developer & Software Engineer at [Witel](https://witel.ir/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-- 
+- **Flutter developer & Software Engineer at** [Witel](https://witel.ir/)
+ 
 <code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/spidercod/spidercod/main/images/dart-logo-free-transparent-png.png"></code>
 <code><img height="20" alt="Flutter" src="https://raw.githubusercontent.com/spidercod/spidercod/main/images/flutter5786.jpg"></code>
 
