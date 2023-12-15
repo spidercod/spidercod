@@ -1,7 +1,7 @@
 <img width="2700" height="300" src="./images/90066.jpg">
-<p align="center">
+<h3 align="center">
 Hey, I'm Hossein Zaki. a software engineer and Flutter developer, here is a breif reacp of my CV:
-</p>
+</h3>
 
 
 
