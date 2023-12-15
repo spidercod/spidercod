@@ -1,32 +1,50 @@
 <p align="center"><img width="1000" height="400" alt="Hello, I'm Hossien Zaki. I do open source!" src="./images/90066.jpg" /></p>
 
-<br />
 
-**About me**
+<img width="2700" height="300" src="./img/image1.jpg">
+<p align="center">
+Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is a breif reacp of my CV:
+</p>
 
-- **Flutter developer & Software Engineer at** [Witel](https://witel.ir/)
- 
-<code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/spidercod/spidercod/main/images/dart-logo-free-transparent-png.png"></code>
-<code><img height="20" alt="Flutter" src="https://raw.githubusercontent.com/spidercod/spidercod/main/images/flutter5786.jpg"></code>
 
-| <a href="https://github.com/spidercod/spidercod.git"><img align="center" src="https://github-spidercod.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hossein's github stats" /></a> | <a href="https://github.com/spidercod/spidercod.git"><img align="center" src="https://github-spidercod.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-#### Top Repositories
+## Some of my important activities
 
-<a href="https://github.com/spidercod/spidercod.git">
-  <img align="center" src="https://github-spidercod.vercel.app/api/pin/?username=anuraghazra&repo=github-spidercod&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-spidercod.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+#### Professional Career Projects (companies)
+- [IPay](https://github.com/Hasanzakii/Ipay.git)
+- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git) (one of the maintainers of project at [Witel](https://witel.ir/) company)
+- [CRM](https://gitlab.com/witelgroup/crm-server.git)
+- [141](https://141.ir/) (one of the develpers of project at [Witel](https://witel.ir/) company)
+- [Ridesharing-app](https://github.com/Hasanzakii/RideSharing.git) (one of the develpers of project at [Witel](https://witel.ir/) company)
 
-<br />
-<br />
+#### SideProjects
+- [FingerPrint scanner](https://github.com/Hasanzakii/FingerPrint_WindowsForm.git)
+- [Webcam-PhotoCapture](https://github.com/Hasanzakii/webcam_windowsform.git)
+- [PhotoEditor](https://github.com/Hasanzakii/PhotoEditor.git)
+- PhoneBook (my intership project at [Avin-IT](https://avin-tech.ir/) company)
 
-<a href="https://www.linkedin.com/in/hossein-z-3a0552234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img align="right" alt="Hossein Zaki | Linkdin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+#### Contributes
+- [IPay](https://github.com/Hasanzakii/Ipay.git)
+- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git)
+- [CRM](https://gitlab.com/witelgroup/crm-server.git)
+- [141](https://141.ir/)
+- [Ridesahring-app](https://github.com/Hasanzakii/RideSharing.git)
+
+#### Algo-trading
+- under contraction ...
+
+
+#### Course Projects
+- under contraction ...
+---
+<br>
+<details>
+<summary>
+   contact me:
+</summary>
+   
+   - zakitehran@gmail.com
+   - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_self_edit_contact-info%253BK4YzE9qVSIuiJonYMJu62w%253D%253D)
+
+</details>
+<br>
