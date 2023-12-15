@@ -13,14 +13,14 @@ Hey, I'm Hossein Zaki. a software engineer and Flutter developer, here is a brei
 
 
 ### SideProjects
--[To_Do_App](https://github.com/spidercod/To_Do_app.git)
+- [To_Do_App](https://github.com/spidercod/To_Do_app.git)
 
 
 ### Contributes
 - [SimPay](https://github.com/spidercod/SimPay.git)
 
-- [141]([https://141.ir/](https://play.google.com/store/apps/details?id=ir.iran141.samix.android&pcampaignid=web_share))
-- 
+- [141](https://play.google.com/store/apps/details?id=ir.iran141.samix.android&pcampaignid=web_share)
+  
 ### Algo-trading
 - under contraction ...
 
