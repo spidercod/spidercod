@@ -1,9 +1,6 @@
-<p align="center"><img width="1000" height="400" alt="Hello, I'm Hossien Zaki. I do open source!" src="./images/90066.jpg" /></p>
-
-
-<img width="2700" height="300" src="./img/image1.jpg">
+<img width="2700" height="300" src="./images/90066.jpg">
 <p align="center">
-Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is a breif reacp of my CV:
+Hey, I'm Hossein Zaki. a software engineer and Flutter developer, here is a breif reacp of my CV:
 </p>
 
 
