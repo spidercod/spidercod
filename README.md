@@ -7,31 +7,25 @@ Hey, I'm Hossein Zaki. a software engineer and Flutter developer, here is a brei
 
 ## Some of my important activities
 
-#### Professional Career Projects (companies)
+### Professional Career Projects (companies)
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
-- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git) (one of the maintainers of project at [Witel](https://witel.ir/) company)
-- [CRM](https://gitlab.com/witelgroup/crm-server.git)
 - [141](https://141.ir/) (one of the develpers of project at [Witel](https://witel.ir/) company)
-- [Ridesharing-app](https://github.com/Hasanzakii/RideSharing.git) (one of the develpers of project at [Witel](https://witel.ir/) company)
 
-#### SideProjects
-- [FingerPrint scanner](https://github.com/Hasanzakii/FingerPrint_WindowsForm.git)
-- [Webcam-PhotoCapture](https://github.com/Hasanzakii/webcam_windowsform.git)
-- [PhotoEditor](https://github.com/Hasanzakii/PhotoEditor.git)
-- PhoneBook (my intership project at [Avin-IT](https://avin-tech.ir/) company)
 
-#### Contributes
-- [IPay](https://github.com/Hasanzakii/Ipay.git)
-- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git)
-- [CRM](https://gitlab.com/witelgroup/crm-server.git)
-- [141](https://141.ir/)
-- [Ridesahring-app](https://github.com/Hasanzakii/RideSharing.git)
+### SideProjects
+-[To_Do_App](https://github.com/spidercod/To_Do_app.git)
 
-#### Algo-trading
+
+### Contributes
+- [SimPay](https://github.com/spidercod/SimPay.git)
+
+- [141]([https://141.ir/](https://play.google.com/store/apps/details?id=ir.iran141.samix.android&pcampaignid=web_share))
+- 
+### Algo-trading
 - under contraction ...
 
 
-#### Course Projects
+### Course Projects
 - under contraction ...
 ---
 <br>
@@ -40,8 +34,8 @@ Hey, I'm Hossein Zaki. a software engineer and Flutter developer, here is a brei
    contact me:
 </summary>
    
-   - zakitehran@gmail.com
-   - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_self_edit_contact-info%253BK4YzE9qVSIuiJonYMJu62w%253D%253D)
+   - h.zaki1020@gmail.com
+   - [LinkedIn](https://www.linkedin.com/in/hossein-z-3a0552234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </details>
 <br>
